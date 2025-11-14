@@ -3,7 +3,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 # About Me
 - 💼 Aspiring Data Analyst
 - 🌱 Currently start learning the Google Data Analytics Certification
-
+- 🔭 Working on P&L Analysis & Visualization Projects  
+- 📊 Experienced in Excel, Power BI, and Financial Analysis
+  
 # Tools and Languages
 - Excel
 - PowerBI
